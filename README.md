@@ -20,7 +20,7 @@ Els dos jugadors comencen dels seus objectius i han d’anar cap al servei i int
 
 # Modes de joc
 
- · 1 v 1 (Porta un jugador real)
+ · 1 v 1 (Jugador real)
 
  · 1 v IA 
 
